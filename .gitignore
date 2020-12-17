@@ -93,3 +93,5 @@ yarn-debug.log*
 /config/master.key
 /config/database.yml
 /test
+.framgia-ci-reports/
+.framgia-ci-result.temp.yml
